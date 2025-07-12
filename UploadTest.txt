@@ -6,7 +6,10 @@ $ git config --global user.email 邮箱
 #克隆仓库到本地（点绿色 “Code” 按钮复制仓库的HTTPS 或 SSH 地址 
 $ git clone https://github.com/用户名/仓库名.git
 
-#先将欲添加文件移入项目文件	#默认路径在 C:\Users\用户名\项目名
+#打开项目路径
+$ cd C:/Users/用户名/项目名  #默认下载路径
+
+#先将欲添加文件移入项目文件	  #直接拖动
 
 #提交代码到仓库（添加文件
 $ git add 基本名.扩展名	#添加单个文件
